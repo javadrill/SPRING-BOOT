@@ -1,0 +1,14 @@
+java:
+    course:
+           - topic : String Handling
+             fee: 2000
+           - topic: Exception Handling
+             fee: 50000
+             
+---
+
+spring:
+      datasource: mysql
+      port1 : 1000
+      url: 
+          testurl: https:google.com
